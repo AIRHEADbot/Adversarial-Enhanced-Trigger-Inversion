@@ -49,8 +49,8 @@ python run_stability_evaluation.py
 ---
 
 ## Results
-![Experimental Results](./results.png)  
-*(Replace with your actual results figure path)*
+![Experimental Results](batch_evaluation_comparison.png)  
+
 
 **Key Findings**:
 - PGD adversarial training significantly improves model robustness against adversarial attacks in the DECREE framework.
